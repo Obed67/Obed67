@@ -1,8 +1,8 @@
-# Hi! I'm Obed ✨
+# Hi! I'm Obed
 
 **Full-Stack Developer**  
 *JavaScript | React | Node.js | Tailwind CSS | Prisma | Supabase | Python for Data Science*  
-🚀 *Available for new challenges*
+*Available for new challenges*
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Obed-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/obedev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@s_sonagnon-1DA1F2?logo=twitter&style=flat-square)](https://x.com/s_sonagnon)
@@ -13,7 +13,7 @@
 import * from './AvailableForNewChallenges';
 
 const obedAgbohoun = {
-  lookingFor: "Full stack web developer✨ | Tech enthusiast 🔥",
+  lookingFor: "Full stack web developer | Tech enthusiast ",
   location: "Remote",
   code: [
     "JavaScript",
